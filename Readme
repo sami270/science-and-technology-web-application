@@ -1,0 +1,22 @@
+Welcome! To execute this program, follow these steps: 
+1-Extract the files on your desktop. 
+2-Download python on this page: https://www.python.org/downloads/ by clicking on Download Python. 
+3-During the installation, select Add Python 3.7 to Path and Install Now. 
+4-Once it is installed open the command line. 
+5-Copy and Paste the following: pip install --user pillow flask flask_login flask_mail itsdangerous flask_wtf wtforms flask_sqlalchemy flask_bcrypt. Press Enter. 
+6-Enter 'cd Desktop/FLASK_BLOG' in the command line (without the quotation marks) and Enter.
+7-Enter 'python run.py' in the command line (without the quotation marks) and Enter
+8-A web address like this: http://127.0.0.1:5000/ should appear. Copy and paste it on your address bar on top of the window of your web browser. 
+9-The site should appear. You can now explore the several functionalities available. 
+
+You can explore the different functionalities like this: 
+1-Register by clicking on the 'Register' link in the top right corner. 
+2-Log in your account after registering. 
+3-View and update your profile by clicking on 'Account'. 
+4-Post something new by clicking on 'New Post'. 
+5-Delete or update your posts by clicking on their title on the 'Home' page. Warning: you can only alter the posts which you created as the website doesn't allow you to alter those of others. 
+6-View the posts that were created by one user only by clicking on their username which is at the top of their posts in the Home page. 
+7-Log out 
+8-Try to log in again. Click on 'Forgot your password ?'. Enter your email address (which you used to register and log in the last time) and check your mail inbox for a 'Password Reset Request' email. Click on the link and reset your password. 
+9-If step 8 doesn't work, refresh the website's page and go to the following link: https://myaccount.google.com/lesssecureapps?pli=1. Allow less secure apps (you can disable it afterward by going back to the same link). And try again step 8.
+10. That's it! Thank you for your time and for checking my web application.
