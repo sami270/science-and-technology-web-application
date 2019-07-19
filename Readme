@@ -1,11 +1,11 @@
 Welcome! To execute this program, follow these steps: 
-1-Extract the FLASK_BLOG file that is located inside teh science and technology with winrar and put it in your desktop. 
+1-Extract the FLASK_BLOG file that is located inside the science-and-technology-web-application-master file with winrar and put it in your desktop. 
 2-Download python on this page: https://www.python.org/downloads/ by clicking on Download Python. 
 3-During the installation, select Add Python 3.7 to Path and Install Now. 
 4-Once it is installed open the command line. 
 5-Copy and Paste the following: pip install --user pillow flask flask_login flask_mail itsdangerous flask_wtf wtforms flask_sqlalchemy flask_bcrypt. Press Enter. 
-6-Enter 'cd Desktop/FLASK_BLOG' in the command line (without the quotation marks) and Enter.
-7-Enter 'python run.py' in the command line (without the quotation marks) and Enter
+6-Enter 'cd Desktop\FLASK_BLOG' in the command line (without the quotation marks) and Enter.
+7-Enter 'python run.py' in the command line (without the quotation marks) and Enter.
 8-A web address like this: http://127.0.0.1:5000/ should appear. Copy and paste it on your address bar on top of the window of your web browser. 
 9-The site should appear. You can now explore the several functionalities available. 
 
